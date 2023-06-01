@@ -398,15 +398,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
  
-![board img](a1.jpeg)
-![board img](a2.jpeg)
-![board img](o1.jpeg)
-![board img](o2.jpeg)
- ## Circuit board :
+![o1](https://github.com/abdulwasih2003/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/91781810/f97c2e0a-36fd-476f-9c10-8c47eed5cad1)
 
-![board img](b1.jpeg)
-![board img](b2.jpeg)
- 
+![o2](https://github.com/abdulwasih2003/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/91781810/b06c3f0f-f671-4fe8-bee6-776c13d1ff6e)
+
+ ## Circuit board :
+![b1](https://github.com/abdulwasih2003/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/91781810/a182fc59-5bc6-4565-9bc1-2ea6c53aae61)
+
+![b2](https://github.com/abdulwasih2003/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/91781810/04f15d2d-f8d4-45a4-acb2-3a7ee4a38866)
+
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
